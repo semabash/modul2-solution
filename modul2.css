@@ -17,17 +17,17 @@
     position: relative;
     background-color: #b2ad7f;
     margin:20px;
-    border:3px solid black;
+    border:1px solid black;
    }
 
    .columns-title{
     position: absolute;
     top: 0;
     right: 0;
-   	width:40%;
-   	border: 2px solid black;
+   	width:30%;
+   	border: 1px solid black;
    	text-align: center;
-   	font-size: 150%;
+   	font-size: 120%;
    	
    }
 
@@ -41,10 +41,10 @@
 
    .row {
     width: 90%;
-    border: 15px;
+    border: 10px;
     margin-right: auto;
     margin-left: auto;
-    padding:15px;
+    padding:10px;
    }
    #chicken{background-color: #feb236;}
    #beef{background-color: #d64161; color: yellow;}
